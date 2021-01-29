@@ -4,7 +4,9 @@ Setup:
 ```shell
 mkdir build
 cd build
-ccmake ..
+cmake ..
 make
 ./minesweeper
 ```
+
+![screenshot](https://github.com/bart-le/minesweeper/blob/master/img.png?raw=true)
